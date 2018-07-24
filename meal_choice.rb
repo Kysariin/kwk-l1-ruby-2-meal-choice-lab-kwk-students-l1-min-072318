@@ -22,9 +22,9 @@ puts dinner("chicken")
 
 # call your methods here
 snacks("Swedish fish")
-breakfast("cereal")
-lunch("sandwich")
-dinner("chicken")
+breakfast("pancakes")
+lunch("peanut butter")
+dinner("broccoli")
 # Call your methods without any arguments here
 puts snacks
 puts breakfast
