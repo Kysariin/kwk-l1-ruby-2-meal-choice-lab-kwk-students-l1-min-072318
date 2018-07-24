@@ -16,6 +16,9 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
+def breakfast(bfood = "frosted flakes")
+  puts "Morning is the best time for #{bfood}"
+end
 
 
 # Call your methods without any arguments here
